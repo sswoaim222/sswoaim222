@@ -15,8 +15,17 @@
 
 🌐 Connect With Me
 <p align="center"> <a href="https://www.instagram.com/swoaim_sthapit/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
-🛠️ Tech Arsenal
-<p align="center"> <a href="https://isocpp.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> </a> <a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> </a> <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> </a> <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> </a> </p>
+🦖 Dinosaur Zone
+<p align="center">
+                          __
+                         / _)
+                .-^^^-/ /
+             __/       /
+            <__.|_|-|_|
+
+        🦖  Swoaim's Dinosaur
+
+</p> <p align="center"> <b>ROAR! 🦖</b><br> <i>Learning C++ one step at a time...</i> </p>
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SwoaimSthapit&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SwoaimSthapit&theme=tokyonight&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwoaimSthapit&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
 🐍 Contribution Snake
